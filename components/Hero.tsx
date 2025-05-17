@@ -52,12 +52,13 @@ const Hero = () => {
            *  change md:text-6xl, add more responsive code
            */}
           <TextGenerateEffect
-            words="Transforming Concepts into Seamless User Experiences"
+            words="Where Design Precision Meets Code Execution"
             className="text-center text-[40px] md:text-5xl lg:text-6xl"
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;m Jayden, a Next.js Developer based in Taiwan and Madison.
+            Hi! I&apos;m Jayden, a Next.js Developer passionate
+            about clean code and pixel-perfect UI.
           </p>
 
           <a href="#about">
